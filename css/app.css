@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #238276;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+}
+
+.container{
+	font-family: verdana;
+}
+
+.form-container {
+    background-color: #238276;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    min-height: 280px;
+    padding: 30px;
+    border: 8px solid #eee;
+    border-radius: 15px; 
+    /*::-webkit-input-placeholder { color: #eee; }
+    ::-moz-placeholder { color: #eee; }  firefox 19+ 
+    :-ms-input-placeholder { color: #eee; } /* ie
+    input:-moz-placeholder { color: #eee; }*/
+}
+
+.titulo {
+  text-align: left;
+  color: #eee;
+  font-size: 150%;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.form-control {
+  background: none;
+  color: #eee;
+  border: 4px solid #eee;
+  border-radius: 10px;
+}
+
+.fecha{
+  color: #eee;
+  font-size: 120%;
+}
+
+.panel{
+  background: none;
+  border: none;
+  margin-bottom: 0px;
+}
+
+.btn {
+  border: 2px solid #eee;
+  background: #238276;
+}
+
+p {
+  padding-top: 10px;
+  color: #eee;
+  font-family: calibri;
+  font-size: 150%;
+  text-align: center;
+}
+
+.iniciar {
+  padding-top: 250px; 
+  text-align: center;
+}
+
+label {
+  color: #eee;
+  font-size: 120%;
+}
+
+.form-containerlg {
+    background-color: #238276;
+    margin-top: 130px;
+    margin-bottom: 0px;
+    min-height: 280px;
+    padding: 30px;
+    border: 8px solid #eee;
+    border-radius: 15px; 
+    ::-webkit-input-placeholder { color: #eee; }
+    ::-moz-placeholder { color: #eee; } /* firefox 19+ */
+    :-ms-input-placeholder { color: #eee; } /* ie */
+    input:-moz-placeholder { color: #eee; }
+}
+
+.recuerdame {
+  color: #eee;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.terminos {
+  color: #eee;
+  text-decoration: none;
+  font-size: 12px;
+  padding-top: 5px; 
+}
+
+.correct {
+  padding: 10px;
+  color: #eee;
+  font-size: 100%;
+}
+
+.error {
+  color: #eee;
+  font-size: 100%;
+}

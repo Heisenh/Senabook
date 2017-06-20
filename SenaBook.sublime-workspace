@@ -1,0 +1,672 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"con",
+				"conductor"
+			],
+			[
+				"num",
+				"numiden"
+			],
+			[
+				"acumu",
+				"acumulados"
+			],
+			[
+				"acu",
+				"acumulados"
+			],
+			[
+				"ven",
+				"vendedortotal"
+			],
+			[
+				"ac",
+				"acumuladia"
+			],
+			[
+				"Total",
+				"TotalComisiones"
+			],
+			[
+				"total",
+				"totalcomi"
+			],
+			[
+				"resul",
+				"resultadoComi"
+			],
+			[
+				"to",
+				"totalcomi"
+			],
+			[
+				"c",
+				"con\tfunction __construct"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ope",
+				"operacion"
+			],
+			[
+				"numer",
+				"numero2"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ins",
+				"inscritoTB"
+			],
+			[
+				"inscrito",
+				"inscritoTB"
+			],
+			[
+				"inst",
+				"inscritos"
+			],
+			[
+				"insc",
+				"inscritoTB"
+			],
+			[
+				"cab",
+				"cabven"
+			],
+			[
+				"cabd",
+				"cabdat"
+			],
+			[
+				"_",
+				"___________________________________________________"
+			],
+			[
+				"fac",
+				"factu_obj"
+			],
+			[
+				"Ob",
+				"objeto"
+			],
+			[
+				"tipo",
+				"tipo_docu"
+			],
+			[
+				"varchar",
+				"varchar2"
+			],
+			[
+				"de",
+				"decimal"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"ani",
+				"Animal"
+			],
+			[
+				"base",
+				"baseinf"
+			],
+			[
+				"bas",
+				"baseinf"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ce",
+				"cesan"
+			],
+			[
+				"au",
+				"auxtra"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 1921,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view/registro.view.php",
+			"settings":
+			{
+				"buffer_size": 4664,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "registrar_usuarios.php",
+			"settings":
+			{
+				"buffer_size": 1961,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view/login.view.php",
+			"settings":
+			{
+				"buffer_size": 3010,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view/contenido.view.php",
+			"settings":
+			{
+				"buffer_size": 11262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "body {\n    background-color: #f2f2f2;\n    font-family: Lato;\n    font-weight: 300;\n    font-size: 16px;\n    color: #555;\n    -webkit-font-smoothing: antialiased;\n    -webkit-overflow-scrolling: touch;\n}\nh1, h2, h3, h4, h5, h6 {\n    font-family: Raleway;\n    font-weight: 300;\n    color: #333;\n}\np {\n    line-height: 28px;\n    margin-bottom: 25px;\n    font-size: 18px;\n}\n.centered {\n    text-align: center;\n}\n.goright {\n    text-align: right;\n}\n.mt {\n    padding-top: 25px;\n}\na {\n    color: #16a085;\n    word-wrap: break-word;\n    -webkit-transition: color .1s ease-in, background .1s ease-in;\n    -moz-transition: color .1s ease-in, background .1s ease-in;\n    -ms-transition: color .1s ease-in, background .1s ease-in;\n    -o-transition: color .1s ease-in, background .1s ease-in;\n    transition: color .1s ease-in, background .1s ease-in;\n}\na:hover, a:focus {\n    color: #7b7b7b;\n    text-decoration: none;\n    outline: 0;\n}\na:before, a:after {\n    -webkit-transition: color .1s ease-in, background .1s ease-in;\n    -moz-transition: color .1s ease-in, background .1s ease-in;\n    -ms-transition: color .1s ease-in, background .1s ease-in;\n    -o-transition: color .1s ease-in, background .1s ease-in;\n    transition: color .1s ease-in, background .1s ease-in;\n}\nhr {\n    display: block;\n    height: 1px;\n    border: 0;\n    border-top: 1px solid #ccc;\n    margin: 1em 0;\n    padding: 0;\n}\n.btn {\n    border-radius: 0;\n}\n.btn-green {\n    color: #fff;\n    background-color: #1abc9c;\n    border-color: #1abc9c;\n    font-weight: 300;\n}\n.btn-green:hover, .btn-green:focus, .btn-green:active, .btn-green.active, .open .dropdown-toggle.btn-green {\n    color: #fff;\n    background-color: #16a085;\n    border-color: #16a085;\n    font-weight: 300;\n}\n.tm {\n    font-size: 14px;\n    line-height: 20px;\n}\n.menu {\n    position: fixed;\n    right: -200px;\n    width: 260px;\n    height: 100%;\n    top: 0;\n    z-index: 10;\n    text-align: left;\n}\n.menu.menu-open {\n    right: 0;\n}\n.menu-wrap {\n    position: absolute;\n    top: 0;\n    left: 60px;\n    background: #1a1a1a;\n    width: 200px;\n    height: 100%}\n.menu h1.logo a {\n    font-family: Raleway, Helvetica, Arial, sans-serif;\n    font-size: 16px;\n    font-weight: 800;\n    letter-spacing: .15em;\n    line-height: 40px;\n    text-transform: uppercase;\n    color: #fff;\n    margin-top: 20px;\n}\n.menu h1.logo a:hover {\n    color: #1abc9c;\n}\n.menu img.logo {\n    margin: 20px 0;\n    max-width: 160px;\n}\n.menu a {\n    margin-left: 20px;\n    color: gray;\n    display: block;\n    font-size: 12px;\n    font-weight: 700;\n    line-height: 40px;\n    letter-spacing: .1em;\n    text-transform: uppercase;\n}\n.menu a:hover {\n    color: #fff;\n}\n.menu a:active {\n    color: #fff;\n}\n.menu a>i {\n    float: left;\n    display: inline-block;\n    vertical-align: middle;\n    text-align: left;\n    width: 25px;\n    font-size: 14px;\n    line-height: 40px;\n    margin: 25px 2px;\n}\n.menu-close {\n    cursor: pointer;\n    display: block;\n    position: absolute;\n    font-size: 14px;\n    color: gray;\n    width: 40px;\n    height: 40px;\n    line-height: 40px;\n    top: 20px;\n    right: 5px;\n    -webkit-transition: all .1s ease-in-out;\n    -moz-transition: all .1s ease-in-out;\n    -ms-transition: all .1s ease-in-out;\n    -o-transition: all .1s ease-in-out;\n    transition: all .1s ease-in-out;\n}\n.menu-close:hover {\n    color: #fff;\n    -webkit-transition: all .1s ease-in-out;\n    -moz-transition: all .1s ease-in-out;\n    -ms-transition: all .1s ease-in-out;\n    -o-transition: all .1s ease-in-out;\n    transition: all .1s ease-in-out;\n}\n.body-push {\n    overflow-x: hidden;\n    position: relative;\n    left: 0;\n}\n.body-push-toright {\n    left: 200px;\n}\n.body-push-toleft {\n    left: -200px;\n}\n.menu, .body-push {\n    -webkit-transition: all .3s ease;\n    -moz-transition: all .3s ease;\n    -ms-transition: all .3s ease;\n    -o-transition: all .3s ease;\n    transition: all .3s ease;\n}\n#menuToggle {\n    position: absolute;\n    top: 20px;\n    left: 0;\n    z-index: 11;\n    display: block;\n    text-align: center;\n    font-size: 14px;\n    color: #fff;\n    width: 40px;\n    height: 40px;\n    line-height: 40px;\n    cursor: pointer;\n    background: rgba(0, 0, 0, .25);\n    -webkit-transition: all .1s ease-in-out;\n    -moz-transition: all .1s ease-in-out;\n    -ms-transition: all .1s ease-in-out;\n    -o-transition: all .1s ease-in-out;\n    transition: all .1s ease-in-out;\n}\n#menuToggle:hover {\n    color: #fff;\n    background: rgba(0, 0, 0, .2);\n    -webkit-transition: all .1s ease-in-out;\n    -moz-transition: all .1s ease-in-out;\n    -ms-transition: all .1s ease-in-out;\n    -o-transition: all .1s ease-in-out;\n    transition: all .1s ease-in-out;\n}\n#headerwrap {\n    background: url(../img/developer.jpg) no-repeat center top;\n    margin-top: -10px;\n    padding-top: 20px;\n    text-align: center;\n    background-attachment: relative;\n    background-position: center center;\n    min-height: 750px;\n    width: 100%;\n    -webkit-background-size: 100%;\n    -moz-background-size: 100%;\n    -o-background-size: 100%;\n    background-size: 100%;\n    -webkit-background-size: cover;\n    -moz-background-size: cover;\n    -o-background-size: cover;\n    background-size: cover;\n}\n#headerwrap h1 {\n    margin-top: 130px;\n    color: #fff;\n    font-size: 140px;\n    font-weight: 700;\n    letter-spacing: 3px;\n}\n#headerwrap h2 {\n    color: #fff;\n    font-size: 50px;\n    font-weight: 100;\n    letter-spacing: 2px;\n}\n#headerwrap i {\n    font-size: 35px;\n    color: #fff;\n}\n#headerwrap .spacer {\n    margin-top: 220px;\n}\n#mapwrap {\n    margin: 0;\n    padding: 0;\n}\n#serviceswrap {\n    background: url(../img/services-bg.jpg) no-repeat center top;\n    margin-top: -10px;\n    padding-top: 20px;\n    text-align: center;\n    background-attachment: relative;\n    background-position: center center;\n    min-height: 500px;\n    width: 100%;\n    -webkit-background-size: 100%;\n    -moz-background-size: 100%;\n    -o-background-size: 100%;\n    background-size: 100%;\n    -webkit-background-size: cover;\n    -moz-background-size: cover;\n    -o-background-size: cover;\n    background-size: cover;\n}\n#serviceswrap h2 {\n    color: #fff;\n    font-size: 50px;\n    font-weight: 400;\n    letter-spacing: 2px;\n    margin-top: 150px;\n}\n#aboutwrap {\n    background: url(../img/about-bg.jpg) no-repeat center top;\n    margin-top: -10px;\n    padding-top: 20px;\n    text-align: center;\n    background-attachment: relative;\n    background-position: center center;\n    min-height: 500px;\n    width: 100%;\n    -webkit-background-size: 100%;\n    -moz-background-size: 100%;\n    -o-background-size: 100%;\n    background-size: 100%;\n    -webkit-background-size: cover;\n    -moz-background-size: cover;\n    -o-background-size: cover;\n    background-size: cover;\n}\n#aboutwrap h2 {\n    color: #fff;\n    font-size: 50px;\n    font-weight: 400;\n    letter-spacing: 2px;\n    margin-top: 150px;\n}\n#portwrap {\n    background: url(../img/portfolio-bg.jpg) no-repeat center top;\n    margin-top: -10px;\n    padding-top: 20px;\n    text-align: center;\n    background-attachment: relative;\n    background-position: center center;\n    min-height: 500px;\n    width: 100%;\n    -webkit-background-size: 100%;\n    -moz-background-size: 100%;\n    -o-background-size: 100%;\n    background-size: 100%;\n    -webkit-background-size: cover;\n    -moz-background-size: cover;\n    -o-background-size: cover;\n    background-size: cover;\n}\n#portwrap h2 {\n    color: #fff;\n    font-size: 50px;\n    font-weight: 400;\n    letter-spacing: 2px;\n    margin-top: 150px;\n}\n#sp {\n    background: #2f2f2f;\n    padding-top: 35px;\n    padding-bottom: 35px;\n}\n#sp h2 {\n    color: #fff;\n}\n#sp-standout {\n    background: url(../img/sp-standout-bg.jpg) no-repeat center top;\n    margin-top: -10px;\n    padding-top: 20px;\n    text-align: center;\n    background-attachment: relative;\n    background-position: center center;\n    min-height: 500px;\n    width: 100%;\n    -webkit-background-size: 100%;\n    -moz-background-size: 100%;\n    -o-background-size: 100%;\n    background-size: 100%;\n    -webkit-background-size: cover;\n    -moz-background-size: cover;\n    -o-background-size: cover;\n    background-size: cover;\n}\n#portfolio {\n    width: 100%}\n#services {\n    background: #1abc9c;\n    margin-top: 25px;\n    padding-top: 35px;\n    padding-bottom: 35px;\n}\n#services h3 {\n    color: #fff;\n}\n#services p {\n    color: #fff;\n}\n#services i {\n    color: #fff;\n    font-size: 35px;\n    margin-top: 22px;\n}\n#lg {\n    background: #ebebeb;\n    padding-top: 50px;\n    padding-bottom: 50px;\n    text-align: center;\n}\n#lg .desc {\n    text-align: left;\n}\n#call {\n    background: #2f2f2f;\n    padding-top: 35px;\n    padding-bottom: 35px;\n    text-align: center;\n}\n#call h3 {\n    color: #fff;\n}\n#call p {\n    color: #fff;\n}\n#sf {\n    display: block;\n    width: 100%}\n#sf .container {\n    width: 100%}\n#sf .col-lg-4 {\n    margin: 0;\n    padding: 15px;\n}\n#sf .lg {\n    background-color: #1abc9c;\n}\n#sf .dg {\n    background-color: #16a085;\n}\n#sf h4 {\n    color: #fff;\n}\n#sf p {\n    color: #fff;\n}\n#sf .ml {\n    margin-left: 30px;\n}\n#sf i {\n    font-size: 70px;\n    color: #fff;\n    text-align: center;\n    margin-top: 50px;\n    margin-bottom: 50px;\n}\n#cf {\n    background: #2f2f2f;\n}\n#cf h4 {\n    color: #fff;\n    margin-left: 15px;\n    margin-top: 15px;\n}\n#cf p {\n    color: #fff;\n    font-size: 15px;\n    line-height: 18px;\n    margin-left: 15px;\n}\n#cf .container {\n    width: 100%}\n#cf .col-lg-8 {\n    margin: 0;\n    padding: 0;\n}\n.process {\n    max-width: 69em;\n    list-style: none;\n    margin: 30px auto;\n    padding: 0;\n}\n.process li {\n    display: block;\n    float: left;\n    padding: 1px;\n    width: 100%;\n    opacity: 0;\n}\n.process li.shown, .no-js .process li, .no-cssanimations .process li {\n    opacity: 1;\n}\n.process li a, .process li img {\n    outline: 0;\n    border: 0;\n    display: block;\n    max-width: 100%}\n.process.effect-2 li.animate {\n    -webkit-transform: translateY(200px);\n    -moz-transform: translateY(200px);\n    transform: translateY(200px);\n    -webkit-animation: moveUp .65s ease forwards;\n    -moz-animation: moveUp .65s ease forwards;\n    animation: moveUp .65s ease forwards;\n}\n@-webkit-keyframes moveUp {\n    to {\n    -webkit-transform: translateY(0);\n    opacity: 1;\n}\n}@-moz-keyframes moveUp {\n    to {\n    -moz-transform: translateY(0);\n    opacity: 1;\n}\n}@keyframes moveUp {\n    to {\n    transform: translateY(0);\n    opacity: 1;\n}\n}#chartwrap {\n    width: 100%}\n#chartwrap .container {\n    margin-left: 0;\n    padding-left: 0;\n}\n#chartwrap h1, #chartwrap p {\n    margin-left: 10px;\n}\n.cardinfo {\n    background: #fff;\n    padding: 15px;\n    margin: 2px;\n    text-align: left;\n}\n.cardinfo i {\n    font-size: 18px;\n    padding-right: 20px;\n}\n.grid {\n    max-width: 69em;\n    list-style: none;\n    margin: 30px auto;\n    padding: 0;\n}\n.grid li {\n    display: block;\n    float: left;\n    padding: 7px;\n    width: 33%;\n    opacity: 0;\n}\n.grid li.shown, .no-js .grid li, .no-cssanimations .grid li {\n    opacity: 1;\n}\n.grid li a, .grid li img {\n    outline: 0;\n    border: 0;\n    display: block;\n    max-width: 100%}\n.grid img {\n    opacity: .7;\n}\n.grid img:hover {\n    opacity: 1;\n}\n.grid.effect-2 li.animate {\n    -webkit-transform: translateY(200px);\n    -moz-transform: translateY(200px);\n    transform: translateY(200px);\n    -webkit-animation: moveUp .65s ease forwards;\n    -moz-animation: moveUp .65s ease forwards;\n    animation: moveUp .65s ease forwards;\n}\n@-webkit-keyframes moveUp {\n    to {\n    -webkit-transform: translateY(0);\n    opacity: 1;\n}\n}@-moz-keyframes moveUp {\n    to {\n    -moz-transform: translateY(0);\n    opacity: 1;\n}\n}@keyframes moveUp {\n    to {\n    transform: translateY(0);\n    opacity: 1;\n}\n}",
+			"file": "assets/css/main.css",
+			"file_size": 11650,
+			"file_write_time": 131423969618451914,
+			"settings":
+			{
+				"buffer_size": 11666,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/plantilla",
+		"/C/xampp/htdocs/plantilla/assets",
+		"/C/xampp/htdocs/plantilla/assets/css"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/plantilla/contenido.php",
+		"/C/xampp/htdocs/plantilla/view/contenido.view.php",
+		"/C/xampp/htdocs/plantilla/view/contenido.view.html",
+		"/C/xampp/htdocs/plantilla/index.php",
+		"/C/xampp/htdocs/plantilla/login.php",
+		"/C/xampp/htdocs/plantilla/cerrar.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/views/registro.view.php",
+		"/C/xampp/htdocs/trabajos/sb/galeria/views/foto.view.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/css/estilos.css",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/views/login.views.php",
+		"/C/xampp/htdocs/trabajos/sb/galeria/index.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/login.php",
+		"/C/xampp/htdocs/trabajos/estilos.css",
+		"/C/xampp/htdocs/trabajos/conexion_MySQL.php",
+		"/C/xampp/htdocs/trabajos/conexiondb.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/contenido.php",
+		"/C/xampp/htdocs/trabajos/Herencia_encapsulamiento.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/registro.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/views/contenido.views.php",
+		"/C/xampp/htdocs/info/boot/index.html",
+		"/C/xampp/htdocs/info/boot/index.php",
+		"/C/xampp/htdocs/info/boot/consulta.php",
+		"/C/xampp/htdocs/trabajos/sb/login_registro/cerrar.php",
+		"/C/xampp/htdocs/info/conexion.php",
+		"/C/xampp/htdocs/info/registrando.php",
+		"/C/xampp/htdocs/trabajos/chat/client/index.html",
+		"/C/xampp/htdocs/info/info.php",
+		"/C/xampp/htdocs/Codigo de actividad 8a.sql",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/Herencia_encapsulamiento.php",
+		"/C/xampp/htdocs/conexiondb.php",
+		"/C/xampp/htdocs/Codigo de actividad 8b.sql",
+		"/C/xampp/htdocs/Codigo de actividad 10.sql",
+		"/C/xampp/htdocs/soshialsoshialnet-master/photo.php",
+		"/C/xampp/htdocs/soshialsoshialnet-master/index.php",
+		"/C/xampp/htdocs/soshialsoshialnet-master/bootstrap.php",
+		"/C/xampp/htdocs/clase_herencia.php",
+		"/C/xampp/htdocs/clase_ejemplo.php",
+		"/C/xampp/htdocs/Codigo de actividad 15.sql",
+		"/C/xampp/htdocs/clase de php 05-06-2017",
+		"/C/xampp/htdocs/Json.php",
+		"/C/Users/heisaljo/AppData/Local/Temp/Temp1_php_chat.zip/chat.php",
+		"/D/heisaljo/Desktop/053017-15490-01.dmp",
+		"/C/xampp/htdocs/sb/galeria/subir.php",
+		"/C/xampp/htdocs/sb/galeria/index.php",
+		"/C/xampp/htdocs/sb/galeria/views/index.view.php",
+		"/C/xampp/htdocs/sb/login_registro/registro.php",
+		"/C/xampp/htdocs/interes_rata/view/rata.view.php",
+		"/C/xampp/htdocs/area_trapecio/view/index.view.php",
+		"/C/xampp/htdocs/area_trapecio/index.php",
+		"/C/Users/heisaljo/Desktop/PHP/doc.php",
+		"/C/planos/Data.sql",
+		"/C/xampp/htdocs/interes_rata/index.php",
+		"/C/xampp/htdocs/Ejercicio2/view/Ejercicio2.view.php",
+		"/C/xampp/htdocs/Ejercicio2/Ejercicio 2.php",
+		"/C/xampp/htdocs/Total neto pagado James/index.php",
+		"/C/xampp/htdocs/Total neto pagado James/Gui/index.view.php",
+		"/C/xampp/htdocs/Saludo de Paz  y  Bien",
+		"/C/xampp/htdocs/Ejercicio6/view/Ejercicio6.view.php",
+		"/C/xampp/htdocs/Ejercicio6/Ejercicio 6.php",
+		"/C/xampp/htdocs/Ejercicio5/Ejercicio 5.php",
+		"/C/xampp/htdocs/Ejercicio5/view/Ejercicio5.view.php",
+		"/C/xampp/htdocs/Ejercicio4/view/Ejercicio4.view.php",
+		"/C/xampp/htdocs/Ejercicio4/Ejercicio 4.php",
+		"/C/xampp/htdocs/Ejercicio4/views/Ejercicio4.view.php",
+		"/C/xampp/htdocs/Ejercicio3/view/Ejercicio3.view.php",
+		"/C/xampp/htdocs/Ejercicio3/Ejercicio3/Ejercicio 3.php",
+		"/C/xampp/htdocs/Ejercicio3/Ejercicio3/view/Ejercicio3.view.php",
+		"/C/xampp/htdocs/Ejercicio1/Ejercicio1/view/Ejercicio1.view.php",
+		"/C/xampp/htdocs/Codigo de actividad 8a",
+		"/C/planos/cliente.csv",
+		"/C/xampp/htdocs/test_digitalización/css/estilos.css",
+		"/C/xampp/htdocs/test_digitalización/vista/index.view.php",
+		"/C/xampp/htdocs/test_digitalización/index.php",
+		"/C/xampp/htdocs/test_digitalización/estilos.css",
+		"/C/xampp/htdocs/test_digitalización/test_ajax.php",
+		"/C/xampp/htdocs/test_digitalización/index.view.php",
+		"/C/xampp/htdocs/Total neto pagado James/Ejercicio",
+		"/C/Users/heisaljo/Documents/PHP 08 05 2017",
+		"/C/xampp/htdocs/Total neto pagado James/index.view.php",
+		"/C/planos/cargarcargued.ctl",
+		"/C/planos/cargued.csv",
+		"/C/planos/cabecera.csv",
+		"/C/planos/cargarcarguec.ctl",
+		"/C/planos/carguec.csv",
+		"/C/planos/conductor.csv",
+		"/C/planos/cargarcabecera.ctl",
+		"/C/planos/cargardetalle.ctl",
+		"/C/planos/detalle.csv",
+		"/C/planos/cargarvendedor.ctl",
+		"/C/planos/articulo.sql",
+		"/C/planos/cargarvehiculo.ctl",
+		"/C/planos/vehiculo.csv",
+		"/C/planos/cargarayudante.ctl",
+		"/C/planos/cargarconductor.ctl",
+		"/C/planos/ayudante.csv",
+		"/C/planos/cargarcliente.ctl",
+		"/C/planos/vendedor.txt",
+		"/C/planos/cargararticulo.ctl",
+		"/C/Users/heisaljo/Downloads/Data.sql",
+		"/C/planos/carti.csv",
+		"/C/planos/carti.bad"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"container",
+			"sm",
+			"porcomi",
+			"30000",
+			"resultadosTotales",
+			"();\n",
+			"($",
+			"create table cargued(\n\tcarnum char(8) not null,\n\tcardoc char(8) not null,\n\tcartrn char(3) not null,\n\tcarest char(1) not null,\n\tprimary key (carnum,cartrn,cardoc,carest),\n\tconstraint fk_carguec_cargued\n\tforeign key(carnum)\n\treferences carguec(carcnum),\n\tconstraint fk_cabecera_cargued\n\tforeign key(cardoc,cartrn)\n\treferences cabecera(cabdoc,cabtrn)\n);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1654,
+								1654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "view/registro.view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4012,
+								4012
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "registrar_usuarios.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1393,
+								1393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "view/login.view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2255,
+								2255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "view/contenido.view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2443,
+								2443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4764,
+								4764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3618.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SenaBook.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
